@@ -20,3 +20,4 @@ The included APKs are:
    * GsfProxy: a GmsCore proxy for legacy GCM compatibility
    * FakeStore: an empty package that mocks the existence of the Google Play Store
    * com.google.android.maps: legacy microG's mapsv1 reimplementation
+ * MagiskManager (binary sourced from [here](https://github.com/topjohnwu/Magisk/releases))
